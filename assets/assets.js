@@ -6,6 +6,7 @@ import crown from "./crown.svg";
 import de from "./de.svg";
 import eng from "./eng.svg";
 import first_aid from "./first_aid.svg";
+import hamburger_menu from "./hamburger_menu.svg";
 import heart_outlined from "./heart_outlined.svg";
 import languages from "./languages.svg";
 import logo from "./logo.svg";
@@ -32,6 +33,7 @@ export const assets = {
   de,
   eng,
   first_aid,
+  hamburger_menu,
   heart_outlined,
   languages,
   logo,

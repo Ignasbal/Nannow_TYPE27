@@ -58,9 +58,9 @@ const Header = () => {
             </div>
           </nav>
 
-          <button onClick={openSideMenu} className={styles.menuButton}>
+          <button className={styles.hamburgerMenu}>
             <Image
-              src={assets.menu_icon}
+              src={assets.hamburger_menu}
               alt="Menu Icon"
               className={styles.menu_icon}
             />
