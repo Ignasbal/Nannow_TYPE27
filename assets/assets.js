@@ -12,6 +12,7 @@ import languages from "./languages.svg";
 import logo from "./logo.svg";
 import love_animals from "./love_animals.svg";
 import lt from "./lt.svg";
+import nanny_img from "./nanny_img.jpg";
 import non_smoking from "./non_smoking.svg";
 import pl from "./pl.svg";
 import play_music from "./play_music.svg";
@@ -39,6 +40,7 @@ export const assets = {
   logo,
   love_animals,
   lt,
+  nanny_img,
   non_smoking,
   pl,
   play_music,

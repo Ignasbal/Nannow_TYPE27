@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <div className={styles.navigationBar}>
+    <div className={styles.headerSection}>
       <div className={styles.headerWrapper}>
         <header className={styles.header}>
           <div className={styles.logoContainer}>
